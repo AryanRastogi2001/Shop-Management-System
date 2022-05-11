@@ -279,7 +279,6 @@ void intro()
        cout<<"\n\n\n\t\t******** SHOP MANAGEMENT SYSTEM  *******";
        cout<<"\n\n\t\t\tBY  :-";
        cout<<"\n\n\t\t\t* Aryan Rastogi"<<"\t (DELHI TECHNOLOGICAL UNIVERSITY)";
-       cout<<"\n\n\t\t\t* Ashish Kudiyal"<<" (DELHI TECHNOLOGICAL UNIVERSITY)";
        cout<<" \n\n\n\t\t!!!!press 'ENTER' to continue:!!!! ";
 
        getch();
